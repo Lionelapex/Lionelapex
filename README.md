@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m lionel coding
+- 👋 Hi, I’m lionel
 - ![anime-aestethic](https://github.com/Lionelapex/Lionelapex/assets/126233514/904d3d04-a6e9-4a5c-a58b-a38d5358d075)
 
 <!---
