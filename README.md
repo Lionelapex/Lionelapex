@@ -1,6 +1,7 @@
 
 - 👋 Hi, I’m lionel
-- ![anime-aestethic](https://github.com/Lionelapex/Lionelapex/assets/126233514/904d3d04-a6e9-4a5c-a58b-a38d5358d075)
+
+![happy-dance](https://github.com/Lionelapex/Lionelapex/assets/126233514/b9f7a3c7-9af8-468b-9439-63a67683af95)
 
 <!---
 Lionelapex/Lionelapex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
