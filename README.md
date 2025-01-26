@@ -2,7 +2,7 @@
 ###
 
 
-<h2 align="left">Hi 👋! my name is lionel  and I'm a web developer and this is my reposatory</h2>
+<h2 align="left">Hi there 👋! my name is lionel  and I'm  developer and this is my reposatory</h2>
 
 ###
 
